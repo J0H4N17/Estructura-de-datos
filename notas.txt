@@ -1,0 +1,4 @@
+notas para ejercicios de pilas y colas
+Ejercicio: Historial de páginas visitadas
+Problema
+Un navegador web necesita guardar las páginas que el usuario va visitando. El usuario quiere tener la posibilidad de volver a la página anterior.
